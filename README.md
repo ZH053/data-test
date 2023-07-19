@@ -1,3 +1,3 @@
 # data-test
-# Ediing File
-Its a markdown file
+# Editing File
+It's a markdown file
